@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Reader/Reader.iml" filepath="$PROJECT_DIR$/Reader/Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TBase/TBase.iml" filepath="$PROJECT_DIR$/TBase/TBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TNetwork/TNetwork.iml" filepath="$PROJECT_DIR$/TNetwork/TNetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TReader.iml" filepath="$PROJECT_DIR$/TReader.iml" />
+    </modules>
+  </component>
+</project>
+
