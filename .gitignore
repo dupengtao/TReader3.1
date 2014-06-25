@@ -1,0 +1,15 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+.idea
+TReader.iml
+Reader/build
+Reader/Reader.iml
+Reader/gen
+TBase/build
+TBase/TBase.iml
+TBase/gen
+TNetwork/build
+TNetwork/TNetwork.iml
+TNetwork/gen
