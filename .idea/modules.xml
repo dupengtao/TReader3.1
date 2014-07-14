@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Reader/Reader.iml" filepath="$PROJECT_DIR$/Reader/Reader.iml" />
       <module fileurl="file://$PROJECT_DIR$/TBase/TBase.iml" filepath="$PROJECT_DIR$/TBase/TBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/TNetwork/TNetwork.iml" filepath="$PROJECT_DIR$/TNetwork/TNetwork.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TReader.iml" filepath="$PROJECT_DIR$/TReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TReader3.1.iml" filepath="$PROJECT_DIR$/TReader3.1.iml" />
     </modules>
   </component>
 </project>
